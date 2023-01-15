@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci</string>
+    <string name="nav_header_subtitle">1452-1519</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+    <string name="texto_pintor">Leonardo empleó técnicas innovadoras, atreviéndose a composiciones y a usar los colores de maneras sumamente vanguardistas. Además, aplicó en la pintura sus conocimientos de anatomía, botánica, geología y sobre todo dominó el “sfumato”, técnica de combinación de sombras y de colores.</string>
+    <string name="texto_escultor">Ninguna de las esculturas de Da Vinci sobrevivió hasta nuestros días. Sin embargo, se sabe que planificó algunas muy célebres como el “Gran caballo”, una estatua de bronce de ocho metros de altura que se alzó en Milán, pero que quedó inconclusa a pesar de que se dispusieron 70 toneladas de metal para erigirla.</string>
+    <string name="texto_cientifico">Hizo avanzar la ciencia en los campos de la anatomía, la ingeniería, la óptica, el urbanismo, la geología, en una época en que la mayoría de estas disciplinas aún no tenían nombre. Escribió sus notas y bocetos científicos en un alfabeto secreto inverso, que solo se puede leer con un espejo. Habiendo notado el talento para el dibujo de su hijo, el padre de Leonardo lo inscribió en el taller de Andrea del Verocchio, uno de los más prestigiosos talleres artísticos de la época, donde Leonardo se pudo codear con otros artistas de la talla de Boticelli, Perugino y Ghirlandaio. Allí aprendió a cultivar su pasión por las diversas artes y los distintos saberes, desde cálculo algorítmico hasta escultura. Habiendo superado al maestro, Leonardo se convirtió en un artista e ingeniero de renombre, trabajó para el mecenas Ludovico Sforza, Duque de Milán.</string>
+    <string name="texto_inventor">Los vehículos blindados inventados por Leonardo da Vinci eran capaces de moverse en cualquier dirección y estaban equipados con un gran número de armas. El coche blindado, fue diseñado para intimidar y dispersar a un ejército contrario. Este vehículo tenía una serie de cañones ligeros dispuestos en una plataforma circular con ruedas que permitían un rango de 360 grados. </string>
+
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_modificacion">Modificación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
